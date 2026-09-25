@@ -18,3 +18,4 @@
 <img width="1920" height="1080" alt="Screenshot (1921)" src="https://github.com/user-attachments/assets/74308707-cc81-44d9-9f1c-bdad9abfd1e6" />
 <img width="1920" height="1080" alt="Screenshot (1922)" src="https://github.com/user-attachments/assets/a49b27ac-1ca7-4cd6-92c8-c7451d759389" />
 <img width="1920" height="1080" alt="Screenshot (1923)" src="https://github.com/user-attachments/assets/e1a6dc16-bbc5-453f-9524-a63bf0c30197" />
+<img width="1920" height="1080" alt="Screenshot (1924)" src="https://github.com/user-attachments/assets/ee46af96-48c0-4aed-97ad-680edb1b2279" />
