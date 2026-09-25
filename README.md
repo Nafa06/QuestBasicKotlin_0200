@@ -32,3 +32,4 @@
 <img width="1920" height="1080" alt="Screenshot (1935)" src="https://github.com/user-attachments/assets/7b2a9af6-5dbb-4b07-a561-579692983034" />
 <img width="1920" height="1080" alt="Screenshot (1937)" src="https://github.com/user-attachments/assets/d6cf8f09-71e0-4fbd-b0e2-5679ddad8197" />
 <img width="1920" height="1080" alt="Screenshot (1938)" src="https://github.com/user-attachments/assets/a36ca155-2545-4a8a-b004-19b1a4a4a0b7" />
+<img width="1920" height="1080" alt="Screenshot (1939)" src="https://github.com/user-attachments/assets/74080cb9-ba85-40eb-b850-e1d24ce36e56" />
