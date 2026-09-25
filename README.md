@@ -6,3 +6,4 @@
 <img width="1920" height="1080" alt="Screenshot (1909)" src="https://github.com/user-attachments/assets/db3aa41d-f0b4-4f13-a6b2-c9e61084fbff" />
 <img width="1920" height="1080" alt="Screenshot (1910)" src="https://github.com/user-attachments/assets/dcab52a6-362a-406b-af0d-819c4db1cca0" />
 <img width="1920" height="1080" alt="Screenshot (1911)" src="https://github.com/user-attachments/assets/a3dee2a2-f55e-4835-97da-760bd93b3847" />
+<img width="1920" height="1080" alt="Screenshot (1912)" src="https://github.com/user-attachments/assets/658c94e8-9c1b-472d-b2d7-dac645b1b6b0" />
