@@ -39,3 +39,4 @@
 <img width="1920" height="1080" alt="Screenshot (1943)" src="https://github.com/user-attachments/assets/8f3e0317-310b-4612-a0e8-73ca004ceffc" />
 <img width="1920" height="1080" alt="Screenshot (1945)" src="https://github.com/user-attachments/assets/84d79dbc-dac2-451e-b2d6-64269c82936c" />
 <img width="1920" height="1080" alt="Screenshot (1946)" src="https://github.com/user-attachments/assets/23b4a21f-559f-41a8-b058-0f6e752e5796" />
+<img width="1920" height="1080" alt="Screenshot (1947)" src="https://github.com/user-attachments/assets/0c8e29f0-b812-4db6-b3ae-55ef527fe307" />
